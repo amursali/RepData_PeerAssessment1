@@ -4,6 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
+## This document is by Aibek Mursalimov
 # New project was created with an appropriate working directory
 # Required packages were loaded
 
